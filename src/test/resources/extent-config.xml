@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <!-- HTML reporter configuration -->
+    <configuration>
+        <encoding>UTF-8</encoding>
+        <theme>dark</theme>
+        <protocol>http</protocol>
+        <documentTitle>Test Automation Report</documentTitle>
+        <reportName>Test Report</reportName>
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss a</timeStampFormat>
+        <testViewChart>
+            <chartHeight>500</chartHeight>
+        </testViewChart>
+        <dashboardViewChart>
+            <chartHeight>1000</chartHeight>
+        </dashboardViewChart>
+    </configuration>
+</extentreports>
